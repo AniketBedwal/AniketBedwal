@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AniketBedwal
-- 👀 I’m a Software Developer 
+- 👀 I’m a Trainee Software Engineer @Genzeon
 - 🌱 Completed Diploma in Advanced Computing(DAC) 
-- 💞️ I’m looking to collaborate on webdevelopment project both on frontend and backend
 - 📫 You can connect with me on twitter @AniketBedwal98
+- 🖇️ Linkedin> https://www.linkedin.com/in/aniketbedwal/
