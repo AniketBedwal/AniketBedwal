@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @AniketBedwal
-- 👀 AI Engineer 
-- 📫 You can connect with me on twitter @AniketBedwal98
-- 🖇️ Linkedin> https://www.linkedin.com/in/aniketbedwal/
+### Hi, I'm Aniket Bedwal 👋
+
+AI Engineer building production-grade LLM systems —  
+voice agents, RAG pipelines, and agentic workflows that actually ship.
+
+LangGraph · LangChain · Deepgram · Twilio · pgvector · FastAPI · Airflow
+
+
+📬 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/aniketbedwal/) · [Twitter](https://twitter.com/AniketBedwal98)
+
+💼senior AI Engineering roles
+
