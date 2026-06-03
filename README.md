@@ -1,4 +1,4 @@
-### Hi, I'm Aniket Bedwal 👋
+### Hi, I'm Aniket 👋
 
 AI Engineer building production-grade LLM systems —  
 voice agents, RAG pipelines, and agentic workflows that actually ship.
